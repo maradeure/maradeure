@@ -2,7 +2,6 @@
 I'm a programmer, reverse-engineer, white hat hacker, and infosec specialist from Russia.
 
 <div align=center style="background-color: transparent;">
-	<img style="opacity: 100%;" width="80%" src="preview.jpg"/>
 </div>
 <div align=center style="background-color: transparent;">
 	<img alt="Stars" src="https://img.shields.io/github/stars/esncehtr?label=stars"/>
